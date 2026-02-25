@@ -1,15 +1,10 @@
-# Olá, eu me chamo Ruan! 👋
-
-Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos, colaborações e experimentos com Simplicidade, Objetivos, Logica, Interpretação e Dependencias invertidas.
-
 ## 🚀 Sobre Mim
 - 💻 Desenvolvedor full-stack
-- Discipulo dp S.O.L.I.D e Clean code
-- 🎓 Formado em SI pela Unifesspa
+- 🎓 Graduado em Sistemas de Informação pela Unifesspa
 - 📫 Contate-me em: [ruan.rolim.137@gmail.com](mailto:ruan.rolim.137@gmail.com)
 
 ## 🌟 Dimenção T-310
-- Meus projetos disponíveis no meu [Portifolio](https://moonlove.me/ruan-moon).
+ - [Portifolio](https://moonlove.me/ruan-moon).
 
 ## 🛠️ Tecnologias e Ferramentas
 ### Linguagens
