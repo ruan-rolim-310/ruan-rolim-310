@@ -14,13 +14,13 @@ Desenvolvedor Full-Stack e pesquisador com foco na construção de sistemas esca
 - 🥉 **3º Lugar** na trilha de Indústria e Inovação do SBSI (Autor principal).
 - 💻 **Finalista Brasileiro** da Maratona de Programação da SBC.
 
-## 🏗️ O que ando construindo
-- Desenvolvendo o **Audit.AI**, uma ferramenta inteligente para análise e sumarização de Processos Administrativos Disciplinares (PADs).
-- Criando interfaces mediadas por IA e microsserviços integrados a mensagerias (**RabbitMQ**).
-- Projetando APIs escaláveis de alta performance para orquestração de rotinas complexas.
+## 🚀 Projeto
 
-## 🌟 Dimensão T-310
-- Conheça mais sobre meus projetos em profundidade no meu [Portfólio](https://moonlove.me/ruan-moon).
+Atualmente, concentro meus esforços no desenvolvimento do **Audit.AI**, uma solução premiada que utiliza IA para a análise e sumarização de Processos Administrativos Disciplinares (PADs). Meu trabalho envolve:
+
+* **Orquestração de IA:** Construção de sistemas multiagentes e fluxos de IA generativa com foco em automação técnica.
+* **Arquitetura de Sistemas:** Desenvolvimento de APIs escaláveis de alta performance e microsserviços integrados via **RabbitMQ**.
+* **Interfaces Inteligentes:** Design de interfaces mediadas por IA, focadas em transformar dados complexos em experiências intuitivas.
 
 ## 🛠️ Tecnologias e Ferramentas
 
